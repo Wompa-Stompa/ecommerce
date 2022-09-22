@@ -1,1 +1,1 @@
-# E-commerce Back End Starter Code
+A backend app for dealing with routes. Made with Express, Sequelize and Node js. 
