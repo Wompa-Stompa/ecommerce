@@ -1,0 +1,17 @@
+{
+    "sqltools.connections": [
+        {
+            "mysqlOptions": {
+                "authProtocol": "default"
+            },
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 3001,
+            "driver": "MySQL",
+            "database": "ecommerce_db",
+            "username": "root",
+            "password": "Ramona2016!",
+            "name": "ebomdb"
+        }
+    ]
+}
